@@ -3,7 +3,6 @@
 A production-ready FastAPI application implementing a customer support chatbot with Retrieval-Augmented Generation (RAG) capabilities.
 
 ## Features
-
 ### API Development
 - **FastAPI Framework**: Modern, high-performance Python web framework
 - **User Authentication**: JWT-based authentication with secure password hashing
